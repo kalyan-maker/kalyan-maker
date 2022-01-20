@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @kalyan
-- 👀 I’m interested in learing latest technology
-- 🌱 I’m currently learning front end developer
-- 💞️ I’m looking to collaborate on web applications.
-- 📫 How to reach me kalyanraju7989@outlook.com
+# Hi there, I'm Kalyan! 👋
 
-<!---
-kalyan-maker/kalyan-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kalyan-maker&show_icons=true&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-maker&layout=compact" />
+
+<img alt="javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+<img alt="React" align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<img alt="Node js" align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+
+
+
+
+
+
+
+
